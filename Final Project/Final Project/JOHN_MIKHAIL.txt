@@ -1,0 +1,56 @@
+
+ Shape Type: Cube
+ Length = 6.0 cm
+ Width = 6.0 cm
+ Height = 6.0 cm
+ Area = 216.0 cm^2
+
+
+ Shape Type: Cube
+ Length = 6.0 cm
+ Width = 6.0 cm
+ Height = 6.0 cm
+ Area = 216.0 cm^2
+
+
+ Shape Type: Square
+ Side = 5.3cm
+ Area = 28.0 cm^2
+
+
+ Shape Type: Square
+ Side = 5.3cm
+ Area = 28.0 cm^2
+
+
+ Shape Type: Square
+ Side = 5.3cm
+ Area = 28.0 cm^2
+
+
+ Shape Type: Circle
+ Radius = 5.0 cm
+ Area: 78.50
+
+
+ Shape Type: Cube
+ Length = 6.0 cm
+ Width = 6.0 cm
+ Height = 6.0 cm
+ Area = 216.0 cm^2
+
+
+ Shape Type: Circle
+ Radius = 5.0 cm
+ Area: 78.50
+
+
+ Shape Type: Square
+ Side = 5.3cm
+ Area = 28.0 cm^2
+
+
+ Shape Type: Square
+ Side = 5.3cm
+ Area = 28.0 cm^2
+
